@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.themoviedb.helper.mod"
-version="0.0.2~nexus"
+version="0.0.3~nexus"
 name="TheMovieDb Helper Mod"
 provider-name="ZDGi">
 <requires>
