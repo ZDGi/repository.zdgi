@@ -2,3 +2,7 @@
 	path = nexus/plugin.video.themoviedb.helper.mod
 	url = git@github.com:ZDGi/plugin.video.themoviedb.helper.mod.git
 	branch = nexus
+[submodule "omega/plugin.video.themoviedb.helper.mod"]
+	path = omega/plugin.video.themoviedb.helper.mod
+	url = git@github.com:ZDGi/plugin.video.themoviedb.helper.mod.git
+	branch = nexus
